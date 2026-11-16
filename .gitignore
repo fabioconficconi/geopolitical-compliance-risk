@@ -1,0 +1,17 @@
+# Licensed firm-level data (AIDA / Bureau van Dijk): never commit
+data/raw/db_polimi_final.csv
+data/raw/db_polimi.xlsx
+data/raw/aida_all_batches.csv
+data/processed/layer2_firms*.csv
+
+# R / Python
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
