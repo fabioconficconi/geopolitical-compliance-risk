@@ -4,6 +4,8 @@ Applied Statistics project (Politecnico di Milano) developed with **PwC Italy**.
 Goal: a compliance risk score for Italian firms, based on how much their sector trades
 with sanctioned or high-risk countries.
 
+**Team:** Fabio Conficconi, Filippo Stellato, Silvia Papapietro, Roman Tsoy, Zhaniya Smagulova
+
 - **Layer 1 — Country risk.** PCA + hierarchical (Ward) clustering on institutional
   quality (WGI), logistics (LPI), sovereign credit risk (OECD CRC), sanctions
   (OpenSanctions) and involvement in sanctions-evasion routing. Output: a continuous
