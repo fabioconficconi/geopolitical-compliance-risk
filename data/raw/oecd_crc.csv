@@ -1,0 +1,202 @@
+iso3,country_name,crc_rating
+AFG,Afghanistan,7.0
+ALB,Albania,4.0
+DZA,Algeria,5.0
+AND,Andorra,
+AGO,Angola,6.0
+ATG,Antigua and Barbuda,7.0
+ARG,Argentina,7.0
+ARM,Armenia,5.0
+ABW,Aruba,4.0
+AUS,Australia,
+AUT,Austria,
+AZE,Azerbaijan,4.0
+BHS,Bahamas,4.0
+BHR,Bahrain,6.0
+BGD,Bangladesh,6.0
+BRB,Barbados,
+BLR,Belarus,7.0
+BEL,Belgium,
+BLZ,Belize,
+BEN,Benin,6.0
+BTN,Bhutan,6.0
+BOL,Bolivia,7.0
+BIH,Bosnia and Herzegovina,6.0
+BWA,Botswana,3.0
+BRA,Brazil,4.0
+BRN,Brunei Darussalam,
+BGR,Bulgaria,2.0
+BFA,Burkina Faso,7.0
+BDI,Burundi,7.0
+CPV,Cabo Verde,5.0
+KHM,Cambodia,6.0
+CMR,Cameroon,6.0
+CAN,Canada,
+CAF,Central African Republic,7.0
+TCD,Chad,7.0
+CHL,Chile,
+CHN,China,2.0
+COL,Colombia,4.0
+COM,Comoros,
+COG,Congo,7.0
+CRI,Costa Rica,3.0
+CIV,Cote d Ivoire,5.0
+HRV,Croatia,
+CUB,Cuba,7.0
+CUW,Curacao,5.0
+CYP,Cyprus,
+CZE,Czechia,
+PRK,North Korea,7.0
+COD,DR Congo,7.0
+DNK,Denmark,
+DJI,Djibouti,7.0
+DMA,Dominica,
+DOM,Dominican Republic,4.0
+ECU,Ecuador,6.0
+EGY,Egypt,6.0
+SLV,El Salvador,6.0
+GNQ,Equatorial Guinea,7.0
+ERI,Eritrea,7.0
+EST,Estonia,
+SWZ,Eswatini,6.0
+ETH,Ethiopia,7.0
+FJI,Fiji,5.0
+FIN,Finland,
+FRA,France,
+GAB,Gabon,7.0
+GMB,Gambia,7.0
+GEO,Georgia,5.0
+DEU,Germany,
+GHA,Ghana,7.0
+GRC,Greece,
+GRD,Grenada,
+GTM,Guatemala,4.0
+GIN,Guinea,7.0
+GNB,Guinea-Bissau,7.0
+GUY,Guyana,5.0
+HTI,Haiti,7.0
+HND,Honduras,5.0
+HKG,Hong Kong,2.0
+HUN,Hungary,
+ISL,Iceland,
+IND,India,3.0
+IDN,Indonesia,3.0
+IRN,Iran,7.0
+IRQ,Iraq,7.0
+IRL,Ireland,
+ISR,Israel,
+ITA,Italy,
+JAM,Jamaica,5.0
+JPN,Japan,
+JOR,Jordan,5.0
+KAZ,Kazakhstan,5.0
+KEN,Kenya,7.0
+KIR,Kiribati,
+KOR,Korea,
+XKV,Kosovo,6.0
+KWT,Kuwait,2.0
+KGZ,Kyrgyzstan,7.0
+LAO,Laos,7.0
+LVA,Latvia,
+LBN,Lebanon,7.0
+LSO,Lesotho,6.0
+LBR,Liberia,7.0
+LBY,Libya,7.0
+LIE,Liechtenstein,
+LTU,Lithuania,
+LUX,Luxembourg,
+MAC,Macau,
+MDG,Madagascar,7.0
+MWI,Malawi,7.0
+MYS,Malaysia,2.0
+MDV,Maldives,7.0
+MLI,Mali,7.0
+MLT,Malta,
+MHL,Marshall Islands,
+MRT,Mauritania,6.0
+MUS,Mauritius,3.0
+MEX,Mexico,3.0
+FSM,Micronesia,
+MDA,Moldova,6.0
+MCO,Monaco,
+MNG,Mongolia,6.0
+MNE,Montenegro,6.0
+MAR,Morocco,3.0
+MOZ,Mozambique,7.0
+MMR,Myanmar,7.0
+NAM,Namibia,6.0
+NRU,Nauru,
+NPL,Nepal,6.0
+NLD,Netherlands,
+NZL,New Zealand,
+NIC,Nicaragua,7.0
+NER,Niger,7.0
+NGA,Nigeria,6.0
+MKD,North Macedonia,5.0
+NOR,Norway,
+OMN,Oman,3.0
+PAK,Pakistan,7.0
+PLW,Palau,
+PAN,Panama,4.0
+PNG,Papua New Guinea,6.0
+PRY,Paraguay,4.0
+PER,Peru,3.0
+PHL,Philippines,3.0
+POL,Poland,
+PRT,Portugal,
+QAT,Qatar,2.0
+ROU,Romania,3.0
+RUS,Russia,7.0
+RWA,Rwanda,6.0
+KNA,Saint Kitts and Nevis,
+LCA,Saint Lucia,
+VCT,Saint Vincent,
+WSM,Samoa,
+SMR,San Marino,
+STP,Sao Tome and Principe,
+SAU,Saudi Arabia,2.0
+SEN,Senegal,7.0
+SRB,Serbia,4.0
+SYC,Seychelles,
+SLE,Sierra Leone,7.0
+SGP,Singapore,0.0
+SXM,Sint Maarten,
+SVK,Slovakia,
+SVN,Slovenia,
+SLB,Solomon Islands,
+SOM,Somalia,7.0
+ZAF,South Africa,4.0
+SSD,South Sudan,7.0
+ESP,Spain,
+LKA,Sri Lanka,7.0
+SDN,Sudan,7.0
+SUR,Suriname,7.0
+SWE,Sweden,
+CHE,Switzerland,
+SYR,Syria,7.0
+TWN,Chinese Taipei,2.0
+TJK,Tajikistan,7.0
+TZA,Tanzania,6.0
+THA,Thailand,3.0
+TLS,Timor-Leste,6.0
+TGO,Togo,6.0
+TON,Tonga,
+TTO,Trinidad and Tobago,3.0
+TUN,Tunisia,7.0
+TUR,Turkey,5.0
+TKM,Turkmenistan,7.0
+TUV,Tuvalu,
+UGA,Uganda,6.0
+UKR,Ukraine,7.0
+ARE,United Arab Emirates,2.0
+GBR,United Kingdom,
+USA,United States,
+URY,Uruguay,3.0
+UZB,Uzbekistan,5.0
+VUT,Vanuatu,
+VEN,Venezuela,7.0
+VNM,Vietnam,4.0
+PSE,West Bank and Gaza,7.0
+YEM,Yemen,7.0
+ZMB,Zambia,7.0
+ZWE,Zimbabwe,7.0
